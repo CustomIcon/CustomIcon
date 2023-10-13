@@ -1,7 +1,7 @@
 from feedparser import parse
 from html2markdown import convert
 
-url = "https://cubable.date/rss/"
+url = "https://blog.cubable.date/rss/"
 
 
 def func(url):
@@ -10,7 +10,6 @@ def func(url):
         f"""[📝 {str(i.title)}]({str(i.link)})  \n{str(i.description)} - {str(i.published)}\n\n---------------------"""
         for i in list(feed)
     ]
-    print(latest)
     farr = []
     with open("README.md", "r", encoding="utf8") as x:
         for line in x:
