@@ -1,7 +1,5 @@
 **Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">**
 
-<script async defer src="https://stats.cubable.date/tracker.js" data-website-id="cm639phwz01nvt6bdcz1npfq4"></script>
-
 - **SysAdmin and the Backend Developer of [Qani.store](https://qani.store)**
 - **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
 
